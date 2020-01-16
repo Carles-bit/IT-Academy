@@ -1,0 +1,32 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>IT Academy</title>
+</head>
+<body>
+
+    <h1>Exercicis Variables, Constants i bucle For</h1>
+
+    <h2>Exercici 2 JavaScript :</h2>
+
+    <p id="out1"></p>
+
+    <script>
+
+        const ANYTRASPAS = 1948;
+        var cadaQuantsAnys = 4;
+        var anyNaixement = 1966;
+
+        /** Convertim a Int doncs només ens interesa la part entera de la divisió.*/
+        var nTraspas = parseInt((anyNaixement - ANYTRASPAS) / cadaQuantsAnys);
+
+
+        document.getElementById("out1").innerHTML =
+            "Numero d'anys de traspàs : <B>" + nTraspas + "</B>";
+
+    </script>
+
+</body>
+</html >

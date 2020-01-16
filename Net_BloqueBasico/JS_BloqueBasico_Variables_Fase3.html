@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>IT Academy</title>
+</head>
+<body>
+
+    <h1>Exercicis Variables, Constants i bucle For</h1>
+
+    <h2>Exercici 3 JavaScript :</h2>
+
+    <p id="out1"></p>
+
+    <script>
+
+        var anyNaixement = 1966;
+        var esTraspas = false;
+        var any;
+            
+        for (any = 1948; any <= anyNaixement; any++) {
+            if (((any % 4 == 0) && (any % 100 != 0)) || (any % 400 == 0)) {
+                document.writeln(any + "<BR>");
+                if (any == anyNaixement) { esTraspas = true };
+            }
+        }
+
+        if (esTraspas) {
+            document.getElementById("out1").innerHTML =
+                "BINGO: Vas neixer en un any de traspàs !!!!";
+        } else {
+            document.getElementById("out1").innerHTML =
+                "Es teu any de naixement (" + anyNaixement + ") NO és de traspàs";
+
+        }
+
+
+    </script>
+
+
+</body>
+</html >

@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <title>IT Academy</title>
+</head>
+<body>
+
+    <h1>Exercicis Variables, Constants i bucle For</h1>
+
+    <h2>Exercici 4 JavaScript :</h2>
+
+    <p id="out1"></p>
+
+    <script>
+
+        var nom = "Carles Gascó Tomàs";
+        var dataNaixement = "01/10/1964";
+        var tempDate = dataNaixement.split('/');
+        var any = tempDate[2]; 
+
+        document.writeln("El meu nom és " + nom + "<BR>");
+        document.writeln("Vaig néixer el " + dataNaixement + "<BR>");
+        if (((any % 4 == 0) && (any % 100 != 0)) || (any % 400 == 0))
+        {
+                document.writeln("El meu any de naixement ("+any+") és de traspàs.<BR>");
+        }
+        
+     
+     </script>
+
+
+</body>
+</html >
