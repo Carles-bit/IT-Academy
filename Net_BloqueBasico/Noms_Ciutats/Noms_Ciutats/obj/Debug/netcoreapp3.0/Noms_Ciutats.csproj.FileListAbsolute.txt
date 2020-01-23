@@ -1,0 +1,11 @@
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\obj\Debug\netcoreapp3.0\Noms_Ciutats.AssemblyInfoInputs.cache
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\obj\Debug\netcoreapp3.0\Noms_Ciutats.AssemblyInfo.cs
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.exe
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.deps.json
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.runtimeconfig.json
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.runtimeconfig.dev.json
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.dll
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\bin\Debug\netcoreapp3.0\Noms_Ciutats.pdb
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\obj\Debug\netcoreapp3.0\Noms_Ciutats.dll
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\obj\Debug\netcoreapp3.0\Noms_Ciutats.pdb
+C:\Users\formacio\Desktop\Carles\Cibernarium\Projects\Noms_Ciutats\Noms_Ciutats\obj\Debug\netcoreapp3.0\Noms_Ciutats.csprojAssemblyReference.cache
